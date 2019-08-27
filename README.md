@@ -2,6 +2,8 @@
 
 Welcome to Flatiron! Congratulations for making it this far, we can't wait to see how much further you'll go! - Ammar Ali
 
+New line
+
 ## Important links 
 
 [Syllabus](https://drive.google.com/file/d/1GV1nO8scPDJ6YRjHhkZdivPyLsZ90CQx/view?usp=sharing)
